@@ -1,1 +1,1 @@
-# Pytorch_learn001
+仅以此记录在《pytorch深度学习》中遇到的奇奇怪怪的代码
